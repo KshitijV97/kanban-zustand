@@ -16,13 +16,13 @@
 
 .status {
 	font-size: small;
-	background: var(--COLOR-LIGHT-GRAY);
+	background: var(--COLOR-GRAY-LIGHT);
 	padding: 0.25rem;
 	border-radius: 4px;
 }
 
 .PLANNED {
-	background: var(--COLOR-LIGHT-GRAY);
+	background: var(--COLOR-GRAY-LIGHT);
 }
 
 .ONGOING {
